@@ -261,6 +261,20 @@ section {
   gap: 1rem;
 }
 
+.btn-color-3 {
+  background: none;
+}
+
+.btn-color-3:hover {
+  border: rgb(255, 255, 255) 0.1rem solid;
+  background: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+.btn-container {
+  gap: 1rem;
+}
+
 /* ABOUT SECTION */
 
 #about {
